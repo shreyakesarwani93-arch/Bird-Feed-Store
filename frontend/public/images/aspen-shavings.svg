@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f7f3e9"/>
+  <ellipse cx="300" cy="310" rx="210" ry="65" fill="#d5b783"/>
+  <g fill="#b98b50" stroke="#946b39" stroke-width="3">
+    <path d="M110 270 Q180 180 250 260 Q190 300 110 270Z"/>
+    <path d="M210 290 Q270 190 340 270 Q290 320 210 290Z"/>
+    <path d="M320 270 Q390 170 470 250 Q410 310 320 270Z"/>
+    <path d="M160 230 Q230 170 280 230 Q220 270 160 230Z"/>
+    <path d="M290 220 Q360 160 420 225 Q350 260 290 220Z"/>
+  </g>
+  <g fill="#e5c99b">
+    <ellipse cx="180" cy="290" rx="35" ry="10" transform="rotate(-25 180 290)"/>
+    <ellipse cx="350" cy="300" rx="40" ry="12" transform="rotate(20 350 300)"/>
+    <ellipse cx="270" cy="260" rx="30" ry="9" transform="rotate(-15 270 260)"/>
+  </g>
+  <text x="300" y="65" text-anchor="middle" font-size="29" font-weight="bold" fill="#76552d">Aspen Wood Shavings</text>
+  <text x="300" y="375" text-anchor="middle" font-size="19" fill="#76552d">Soft &amp; Natural Bedding</text>
+</svg>

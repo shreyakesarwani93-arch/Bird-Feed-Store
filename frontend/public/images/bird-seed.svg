@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f4f8e9"/>
+  <ellipse cx="300" cy="325" rx="190" ry="28" fill="#d5dfc5"/>
+  <path d="M130 210 Q300 370 470 210 L430 310 Q300 370 170 310Z" fill="#b87943"/>
+  <ellipse cx="300" cy="210" rx="170" ry="65" fill="#e6b66c"/>
+  <g fill="#5c793d">
+    <ellipse cx="200" cy="190" rx="12" ry="25" transform="rotate(-35 200 190)"/>
+    <ellipse cx="250" cy="165" rx="12" ry="25" transform="rotate(25 250 165)"/>
+    <ellipse cx="300" cy="195" rx="12" ry="25" transform="rotate(-20 300 195)"/>
+    <ellipse cx="350" cy="165" rx="12" ry="25" transform="rotate(35 350 165)"/>
+    <ellipse cx="400" cy="195" rx="12" ry="25" transform="rotate(-30 400 195)"/>
+  </g>
+  <g fill="#9b642e">
+    <ellipse cx="225" cy="220" rx="10" ry="20" transform="rotate(30 225 220)"/>
+    <ellipse cx="275" cy="205" rx="10" ry="20"/>
+    <ellipse cx="330" cy="225" rx="10" ry="20" transform="rotate(-30 330 225)"/>
+    <ellipse cx="375" cy="210" rx="10" ry="20"/>
+  </g>
+  <text x="300" y="65" text-anchor="middle" font-size="30" font-weight="bold" fill="#385b32">Bird Seed Blends</text>
+  <text x="300" y="365" text-anchor="middle" font-size="18" fill="#385b32">Healthy Bird Food</text>
+</svg>
