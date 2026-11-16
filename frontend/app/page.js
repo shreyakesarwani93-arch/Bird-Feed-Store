@@ -54,7 +54,7 @@ export default function Home() {
 
 
 useEffect(() => {
-  fetch("http://localhost:5000/api/products")
+  fetch("http://bird-feed-store.onrender.com/api/products")
     .then((response) => response.json())
     .then((data) => {
       setProducts(data);
